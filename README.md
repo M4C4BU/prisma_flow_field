@@ -62,14 +62,3 @@ prisma_comentado.R
 ├── desenha(tempo)          (monta o gráfico de um quadro)
 └── Laço final              (salva os quadros e junta no vídeo)
 ```
-
-## O que aprendi
-
-- Funções e `lapply()` para repetir uma receita várias vezes
-- `set.seed(i)` para manter o aleatório fixo entre quadros
-- Camadas do `ggplot2` e o efeito de brilho com transparência
-- Como transformar uma sequência de gráficos estáticos em animação
-
-## Licença
-
-Defina a licença do projeto aqui (por exemplo, MIT).
