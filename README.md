@@ -24,19 +24,6 @@ Cada quadro do vídeo é o mesmo gráfico `ggplot2` desenhado com um `tempo` dif
 install.packages(c("ggplot2", "ragg", "av"))
 ```
 
-## Como rodar
-
-1. Abra o script `prisma_comentado.R` no RStudio.
-2. Rode o arquivo inteiro (`Ctrl+Shift+S`).
-3. Aguarde. Cada quadro leva alguns segundos, então os 100 quadros podem levar alguns minutos.
-
-Saídas, na pasta de trabalho (`getwd()` mostra qual é):
-
-- `quadros/`: os PNGs de um ciclo (1280x720)
-- `prisma_fluindo.mp4`: o vídeo final, 10 segundos
-
-Dica: pra testar rápido, troque `N_QUADROS` por `5` e rode. Quando estiver tudo certo, volte pra `100`.
-
 ## Parâmetros para mexer
 
 | Parâmetro | O que faz |
