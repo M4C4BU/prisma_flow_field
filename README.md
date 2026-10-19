@@ -2,7 +2,7 @@
 
 Animação generativa feita só com **R e ggplot2**: linhas de luz fluem da esquerda, convergem num prisma e saem como um espectro de cores, com pulsos de luz correndo pelo caminho inteiro. O resultado é um vídeo em loop contínuo.
 
-> Terceiro projeto de uma série em que exploro o lado menos óbvio de cada linguagem: **Python** (paleta de cores com K-Means), **Julia** (sistema solar 3D com GLMakie) e **R** (este aqui).
+> Terceiro projeto de uma série em que exploro o lado menos óbvio de cada linguagem: **Julia** (sistema solar 3D com GLMakie), **Python** (paleta de cores com K-Means) e **R** (este aqui).
 
 ## Como funciona
 
